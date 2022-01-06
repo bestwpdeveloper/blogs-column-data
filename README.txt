@@ -7,7 +7,7 @@ Tested up to: 5.8.2
 Requires PHP: 5.6
 License: GPl V2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.0.0.0
+Stable tag: 1.0.0
 
 A simple and nice plugin to see some blogs column. And also it'll be helpful for knowing every blogs ID's and you'll that how many words have in these blogs and also you can filter your blogs with a thumbnails base.
 
